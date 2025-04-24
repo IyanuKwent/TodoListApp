@@ -16,7 +16,8 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.iyanukwent.todolistapp"
+      "package": "com.iyanukwent.todolistapp",
+      "runtimeVersion": "1.0.0"
     },
     "web": {
       "bundler": "metro",
@@ -37,6 +38,9 @@
         "projectId": "8884f594-be63-4256-aae3-24c2c5d23a0a"
       }
     },
-    "owner": "iyanuk"
+    "owner": "iyanuk",
+    "updates": {
+      "url": "https://u.expo.dev/8884f594-be63-4256-aae3-24c2c5d23a0a"
+    }
   }
 }
